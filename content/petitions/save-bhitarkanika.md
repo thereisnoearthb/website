@@ -1,6 +1,6 @@
 ---
 title: 'Save Bhitarkanika'
-coverImage: '/assets/petitions/sanjayvan.jpg'
+coverImage: '/assets/petitions/bhitarkanika.jpeg'
 link: 'https://savebhitarkanika.thereisnoearthb.com/'
 date: '17-06-2022'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Save Mohund'
-coverImage: '/assets/petitions/sanjayvan.jpg'
+coverImage: '/assets/petitions/mohund.jpg'
 link: 'https://savemohund.thereisnoearthb.com/'
 date: '18-06-2022'
 ---

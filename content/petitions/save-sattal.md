@@ -1,6 +1,6 @@
 ---
 title: 'Save Sattal'
-coverImage: '/assets/petitions/sanjayvan.jpg'
+coverImage: '/assets/petitions/sattal.jpeg'
 link: 'https://savesattal.thereisnoearthb.com/'
 date: '17-06-2022'
 ---

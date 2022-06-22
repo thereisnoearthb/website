@@ -1,6 +1,6 @@
 ---
 title: 'Save Buxwaha'
-coverImage: '/assets/petitions/sanjayvan.jpg'
+coverImage: '/assets/petitions/buxwaha.jpg'
 link: 'https://savebuxwaha.thereisnoearthb.com/'
 date: '18-06-2022'
 ---
