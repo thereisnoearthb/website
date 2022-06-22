@@ -1,7 +1,7 @@
 ---
 title: 'Earth Day Award'
 excerpt: 'To all 10,628 people who pitched in to remove 18.8 tons of waste at 309 cleanups.'
-coverImage: '/assets/blurbs/sanjayvan.jpg'
+coverImage: '/assets/blurbs/award.jpg'
 date: '22-06-2022'
 ---
 
