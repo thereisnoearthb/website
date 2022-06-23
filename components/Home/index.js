@@ -42,7 +42,7 @@ export default function Home(props) {
           <div className='text-7xl mb-0'>
             <AnimatedNumber
               value={counter1}
-              formatValue={(value) => value.toFixed(0)}
+              formatValue={(value) => new Intl.NumberFormat().format(Math.round(value.toFixed(0)))}
             />
           </div>
           <div className='text-2xl' style={{ marginTop: '-.5em' }}>
@@ -53,11 +53,11 @@ export default function Home(props) {
           <div className='text-7xl mb-0 text-center'>
             <AnimatedNumber
               value={counter2}
-              formatValue={(value) => value.toFixed(0)}
+              formatValue={(value) => new Intl.NumberFormat().format((value.toFixed(2)))}
             />
           </div>
           <div className='text-2xl ' style={{ marginTop: '-.5em' }}>
-            kgs of non-biodegradable waste removed
+            kg of non-biodegradable waste removed
           </div>
         </div>
         <div className='my-6 mb-4 py-3 mx-6 text-center flex flex-col items-center text-accent-1'>

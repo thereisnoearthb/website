@@ -16,7 +16,7 @@ export default function WasteCleanedChart(props) {
       <YAxis
         tickTotal={7}
         position='middle'
-        title='Waste Removed (tonnes)'
+        title='Waste Removed (kilograms)'
         style={{
           text: { fontFamily: 'Roboto', fontSize: '.8rem', stroke: 'none', fill: '#2e4a79' },
           title: {
