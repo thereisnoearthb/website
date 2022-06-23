@@ -12,7 +12,7 @@ export default function HeroPetition({ title, coverImage, slug, link, content })
           Sign the Petitions
         </h1>
         <div className="flex flex-col shadow items-center justify-center bg-white cursor-pointer" onClick={() => setShow(true)}>
-          <div className="py-3 mt-2 mb-1 font-bold text-xl capitalize hover:underline cursor-pointer"> {title}</div>
+          <h2 className="py-3 mt-2 mb-1 font-bold text-xl capitalize hover:underline cursor-pointer">{title}</h2>
           <div className="mx-9 mb-9 relative w-3/4">
             <Image blurDataURL={`/_next/image?url=${coverImage}&w=16&q=1`}
               priority

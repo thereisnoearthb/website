@@ -33,7 +33,7 @@ export default function BlurbDetail({ title, coverImage, author, category, date,
             </a>
           </div>
         </div>
-        <h1 className='text-2xl px-5 text-center mt-5 font-bold'>{title}</h1>
+        <h1 className='text-2xl px-5 text-center mt-5 font-bold capitalize'>{title}</h1>
         <div className="mb-2 px-2 mt-1 text-sm italic text-center lowercase">
           Posted on <FormattedDate dateString={date} /> {author && `by ${author}`}
           {/* {author && <><br /><strong>{author}</strong></>} */}

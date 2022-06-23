@@ -4,22 +4,8 @@ import WasteCleanedChart from './WasteCleanedChart';
 import SolidarityCard from './SolidarityCard';
 import Socials from './Socials';
 import AboutBrief from '../About/AboutBrief';
-
-const LineData = [
-  { x: 319, y: 44 },
-  { x: 318, y: 95 },
-  { x: 317, y: 54.2 },
-  { x: 316, y: 218 },
-  { x: 315, y: 50 },
-  { x: 314, y: 63.5 },
-  { x: 313, y: 33.5 },
-  { x: 312, y: 13 },
-  { x: 311, y: 70 },
-  { x: 310, y: 16.5 },
-  { x: 309, y: 12 },
-  { x: 308, y: 7.9 },
-  { x: 307, y: 9 }
-];
+import { ORG_NAME } from '../../lib/constants';
+import CleanUpData from "./CleanUpData.json";
 
 export default function Home(props) {
   const [counter1, setCounter1] = useState(0);
@@ -35,8 +21,9 @@ export default function Home(props) {
   return (
     <>
       <div className='w-full min-h-screen mx-auto flex flex-col'>
+        <h1 className='hidden'>{ORG_NAME}</h1>
         <div className='my-5 mb-2 pt-1'>
-          <WasteCleanedChart data={LineData} />
+          <WasteCleanedChart data={CleanUpData} />
         </div>
         <div className='my-4 flex flex-col items-center text-accent-2'>
           <div className='text-7xl mb-0'>

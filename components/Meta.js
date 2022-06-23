@@ -32,6 +32,7 @@ export default function Meta() {
       <meta name="theme-color" content="#2e4a79" />
       <meta property="og:image:type" content="image/jpeg" />
       <meta property="twitter:site" content="@ThereIsNoEarthB" />
+      <meta property="og:type" content="website" />
     </Head>
   );
 }

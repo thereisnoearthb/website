@@ -13,7 +13,7 @@ const HowToDetail = ({ slug, title, category, date, content }) => {
           {category}
         </span>
       </div>
-      <h2 className="text-accent-3 font-bold text-3xl">{title}</h2>
+      <h1 className="text-accent-3 font-bold text-3xl">{title}</h1>
       <div className={markdownStyles['markdown'] + ' ' + markdownStyles['steps']} dangerouslySetInnerHTML={{ __html: content }}></div>
       <div className='my-0'>
         <SharingIcons title={title} path={asPath} />

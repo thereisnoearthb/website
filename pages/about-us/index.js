@@ -1,12 +1,14 @@
 import Head from "next/head";
+import { useRouter } from "next/router";
 import AboutDetail from "../../components/About/AboutDetail";
 import Container from "../../components/Container";
 import Layout from "../../components/Layout";
 import { getAboutContent } from "../../lib/api";
-import { HOME_OG_IMAGE_URL, ORG_NAME } from "../../lib/constants";
+import { BASE_URL, ORG_NAME } from "../../lib/constants";
 import markdownToHtml from "../../lib/markdownToHtml";
 
 export default function AboutUs(props) {
+  const { asPath } = useRouter();
 
   return (
     <>
@@ -17,7 +19,16 @@ export default function AboutUs(props) {
             name="description"
             content={props.excerpt}
           />
-          <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+          <link rel='canonical' href={asPath} />
+          <meta property="og:url" content={BASE_URL + asPath} />
+          <meta property="og:image" content={BASE_URL + '/assets/TINEB.jpeg'} />
+          <meta property="og:title" content={`About TINEB | ${ORG_NAME}`} />
+          <meta property="og:description" content={props.excerpt} />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta property="twitter:title" content={`About TINEB | ${ORG_NAME}`} />
+          <meta property="twitter:description" content={props.excerpt} />
+          <meta property="twitter:image" content={BASE_URL + '/assets/TINEB.jpeg'} />
+          <meta property="twitter:image:alt" content={ORG_NAME} />
         </Head>
         <Container>
           <AboutDetail content={props.content} />
@@ -30,6 +41,7 @@ export default function AboutUs(props) {
 export async function getStaticProps() {
   const about = getAboutContent([
     'date',
+    'excerpt',
     'content'
   ]);
 

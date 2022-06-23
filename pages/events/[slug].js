@@ -27,6 +27,8 @@ export default function Event({ event, moreEvents, preview }) {
               <title>
                 {event.title} | {ORG_NAME}
               </title>
+              <link rel="canonical" href={router.asPath} />
+              <meta property="og:url" content={`${BASE_URL}${router.asPath}`} />
               <meta name="description" content={event.excerpt} />
               <meta property="og:image" content={`${BASE_URL}${event.coverImage}`} />
               <meta property="og:title" content={`${event.title} | ${ORG_NAME}`} />

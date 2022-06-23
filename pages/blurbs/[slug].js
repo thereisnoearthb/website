@@ -27,6 +27,8 @@ export default function Blurb({ blurb, moreBlurbs, preview }) {
               <title>
                 {blurb.title} | {ORG_NAME}
               </title>
+              <link rel="canonical" href={router.asPath} />
+              <meta property="og:url" content={`${BASE_URL}${router.asPath}`} />
               <meta name="description" content={blurb.excerpt} />
               <meta property="og:image" content={`${BASE_URL}${blurb.coverImage}`} />
               <meta property="og:title" content={`${blurb.title} | ${ORG_NAME}`} />

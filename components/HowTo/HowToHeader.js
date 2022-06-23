@@ -17,6 +17,7 @@ const HowToHeader = () => {
             width={160}
             height={175}
             priority
+            alt="How To? Guides"
           ></Image>
         </div>
       </div>

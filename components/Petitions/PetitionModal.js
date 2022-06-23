@@ -22,7 +22,7 @@ export default class PetitionModal extends Component {
       <>
         <div className={(this.props.show ? "" : "hidden ") + "bg-accent-2 fixed top-0 left-0 min-h-screen w-full z-1 opacity-40"}>
         </div>
-        <div id={"modal-" + this.props.petition.slug} className={(this.props.show ? "" : "hidden ") + "overflow-y-auto overflow-x-hidden absolute grid place-items-center top-0 left-0 content-start z-50 w-full md:inset-0 h-modal md:h-full"}>
+        <div id={"modal-" + this.props.petition.slug} className={(this.props.show ? "" : "hidden ") + "overflow-y-auto overflow-x-hidden absolute grid place-items-center top-0 left-0 content-start z-50 w-full md:inset-0 h-modal md:h-full"} onClick={() => this.props.setShow(false)}>
           <div className="relative p-4 w-full max-w-2xl h-full md:h-auto">
             <div className="relative bg-accent-1 rounded-lg shadow">
               <div className="flex justify-between items-start p-4 rounded-t">
@@ -41,7 +41,7 @@ export default class PetitionModal extends Component {
                 </div>
               </div>
               <div className="flex w-full items-center p-6 space-x-2 rounded-b">
-                <a href={this.props.petition.link} type="button" className="shadow w-full text-center text-accent-1 bg-accent-2 hover:bg-accent-1 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-sm font-medium px-5 py-2.5 hover:text-accent-2 focus:z-10 cursor-pointer">Sign the Petition</a>
+                <a target={'_blank'} href={this.props.petition.link} type="button" className="shadow w-full text-center text-accent-1 bg-accent-2 hover:bg-accent-1 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-sm font-medium px-5 py-2.5 hover:text-accent-2 focus:z-10 cursor-pointer">Sign the Petition</a>
               </div>
             </div>
           </div>

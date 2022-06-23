@@ -17,9 +17,9 @@ export default function AboutBrief({ about, preview }) {
         />
       </div>
       <div className='flex-1 flex flex-col items-center justify-center py-10 mt-4'>
-        <div className='text-center text-3xl text-accent-1 capitalize font-bold'>
+        <h2 className='text-center text-3xl text-accent-1 capitalize font-bold'>
           Who We Are?
-        </div>
+        </h2>
         <div className='text-justify text-md text-accent-1 w-3/4 mt-5'>
           {about.excerpt}
         </div>

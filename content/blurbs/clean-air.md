@@ -1,5 +1,5 @@
 ---
-title: 'Taking a stand for clean air.'
+title: 'Taking A Stand For Clean Air'
 excerpt: '“It is important to have an active waste management system. All the waste ends up in landfill. Cases of fire in landfills are increasing, too; that also contributes to air pollution.”'
 coverImage: '/assets/blurbs/POLLUTION.jpg'
 date: '23-06-2022'

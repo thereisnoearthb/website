@@ -12,7 +12,7 @@ export default class TopBar extends Component {
             <Link href="/"><i className="bi bi-house-heart-fill text-2xl"></i></Link>
           </span>
           <span className='cursor-pointer bg-accent-2 shadow w-10 h-10 flex ml-3' style={{ borderRadius: '100%', alignItems: 'center', justifyContent: 'center' }}>
-            <a href="https://www.buymeacoffee.com/thereisnoearthb" target={'_blank'}><i className="bi bi-wallet2 text-xl"></i></a>
+            <a href="https://www.buymeacoffee.com/thereisnoearthb" target={'_blank'}><i className="bi bi-wallet2 text-xl"></i><span className='hidden'>BuyMeACofee</span></a>
           </span>
         </div>
       </>

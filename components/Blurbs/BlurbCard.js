@@ -11,7 +11,7 @@ export default function BlurbCard(blurb) {
         </div>
       </Link>
       <div className="p-5">
-        <h5 className="mb-2 text-2xl font-bold tracking-tight text-accent-1 dark:text-white">{blurb.title}</h5>
+        <h2 className="mb-2 text-2xl font-bold tracking-tight text-accent-1 dark:text-white">{blurb.title}</h2>
         <p className="mb-4 text-sm font-normal text-accent-1 dark:text-gray-400">{blurb.excerpt}</p>
         <div className="inline-flex items-center py-2 px-3 text-sm font-medium text-accent-2 bg-accent-1 rounded-lg hover:bg-accent-1 hover:text-accent-2 focus:ring-4 focus:outline-none">
           <Link href={"/blurbs/" + blurb.slug}>
