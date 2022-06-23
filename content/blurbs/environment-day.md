@@ -2,7 +2,7 @@
 title: 'World Environment Day cleanups'
 excerpt: 'We saw active participation in the cleanup drives that were arranged in Chennai, Banglore and Delhi on 5th June, 2022'
 coverImage: '/assets/blurbs/environment-day.jpeg'
-date: '23-07-2022'
+date: '23-06-2022'
 ---
 
 On this year's world environment day, 5th June 2022, ThereIsNoEarthB (TINEB) organized three clean-up drives in the country that saw active participation from the public. Royal Enfield, Earthlings First, and Earthday.org were the collaborators for these drives. The country's capital Delhi, and two metropolitan cities, Chennai and Bangalore, witnessed active engagement from citizens that care about the environment. Cleaning equipment, refreshments, and merchandise were issued to all participants. The upcoming paragraphs provide details about each of the mentioned clean-up drives.
