@@ -382,6 +382,11 @@ module.exports = {
         destination: '/Yamuna/index.html',
         permanent: false,
       },
+      {
+        source: '/upi',
+        destination: '/upi.html',
+        permanent: false,
+      },
     ];
   },
 };
