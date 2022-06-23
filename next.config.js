@@ -8,6 +8,12 @@ module.exports = {
         permanent: true
       },
       {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'savebarak.thereisnoearthb.org' }],
+        destination: 'https://thereisnoearthb.org/c/save-barak',
+        permanent: true
+      },
+      {
         source: '/sukhna-lake/cleanup-236-chandigarh.html',
         destination: '/events/sukhna-lake-cleanup-236-chandigarh',
         permanent: false,
