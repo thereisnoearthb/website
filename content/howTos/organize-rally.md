@@ -1,5 +1,5 @@
 ---
-title: How To Organize Rally/Protest?
+title: How to organize a rally/protest?
 date: 23-06-2022
 category: Organize
 ---
