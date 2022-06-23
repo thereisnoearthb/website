@@ -69,3 +69,7 @@
 .about h2 {
   @apply text-2xl m-0 text-accent-3 leading-snug;
 }
+
+.petitions p {
+  margin-bottom: 0.75em;
+}
