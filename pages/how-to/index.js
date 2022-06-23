@@ -42,7 +42,8 @@ export async function getStaticProps() {
   const allHowTos = getAllHowTos([
     'title',
     'date',
-    'slug'
+    'slug',
+    'redirect'
   ]);
 
   return {
