@@ -8,7 +8,11 @@ const HowToDetail = ({ slug, title, category, date, content }) => {
 
   return (
     <div className="py-5 w-3/4 lg:w-full mx-auto flex flex-col">
-      <span className="absolute font-bold top-4 left-5 lg:left-[25%] text-accent-3 text-md w-20">{category}</span>
+      <div className='absolute font-bold top-[1.1em] left-[1.25em] lg:left-[25%] w-20 h-[2.5em] flex flex-row items-center'>
+        <span className="font-bold text-accent-3 text-md ">
+          {category}
+        </span>
+      </div>
       <h2 className="text-accent-3 font-bold text-3xl">{title}</h2>
       <div className={markdownStyles['markdown'] + ' ' + markdownStyles['steps']} dangerouslySetInnerHTML={{ __html: content }}></div>
       <div className='my-0'>

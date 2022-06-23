@@ -34,12 +34,12 @@
   @apply mt-3;
 }
 
-.steps h1, .steps h2 {
+.steps h1, .steps h2, .steps h3 {
   @apply text-xl my-2 font-bold leading-snug uppercase;
 }
 
 .steps h3 {
-  @apply my-2 font-bold leading-snug uppercase;
+  @apply text-lg;
 }
 
 .steps ol {
