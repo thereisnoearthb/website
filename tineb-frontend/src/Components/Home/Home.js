@@ -35,7 +35,7 @@ const LineChartOptions = {
     title: "Cleanup drive no."
   },
   vAxis: {
-    title: "Waste removed (in tonnes)"
+    title: "Waste removed (in kilograms)"
   },
   series: {
     1: { curveType: "function" }
@@ -158,9 +158,9 @@ export default function Home() {
       <p className="hello"> People volunteered </p>
 
       <div className="hi">
-        <p> 19545.135 kg </p>
+        <p> 19,545.135 kg </p>
       </div>
-      <p className="hello"> Amount of non-biodegradable waste in KGs </p>
+      <p className="hello"> Amount of non-biodegradable waste in kg </p>
 
       <Box m={2} pt={3}>
         <Box sx={{ minWidth: 275, p: 10, m: 10 }} variant="contained">
