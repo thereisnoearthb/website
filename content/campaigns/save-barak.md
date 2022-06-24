@@ -2,7 +2,7 @@
 title: 'Save Barak'
 coverImage: 'https://lh3.googleusercontent.com/pw/AM-JKLW9jOYg3HA-p4t_FjBfC1Ej4EjdVhzxSv9C95hHWhRCWcIce8NS0b17iyK9i670KIGItiu9vSJmbCuPwjZz-wGBYDreEeXoWWtlMhgfU0XGpGsrvojjWqB1AaFEA_8O-6lrrB2q2LrQl9zzprni3sJs_g=w443-h982-no?authuser=0'
 link: https://upi.thereisnoearthb.com/?upi=sayan081999-4@oksbi&name=Save%20NorthEast%20Campaign%20Flood%20Relief
-date: '23-07-2022'
+date: '23-06-2022'
 button: Donate Now
 excerpt: Since April, the death toll due to floods and landslides in Assam crossed 100. Over 54 lakh people in 32 of 36 districts of Assam have been impacted.
 ---
