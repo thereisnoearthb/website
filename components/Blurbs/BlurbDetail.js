@@ -17,19 +17,14 @@ export default function BlurbDetail({ title, coverImage, date, content }) {
             <i className='bi bi-arrow-left mr-2'></i>
             <Link href='/blurbs/'>Go Back</Link>
           </div>
-          <div>
+          <div onClick={async () => {
+            await navigator.share({
+              url: asPath,
+              title: title + ' | ' + ORG_NAME
+            });
+          }} className="cursor-pointer">
             Share
-            <a
-              onClick={async () => {
-                await navigator.share({
-                  url: asPath,
-                  title: title + ' | ' + ORG_NAME
-                });
-              }}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-md text-center ml-2"
-            >
+            <a className="text-md text-center ml-2">
               <i className="bi bi-share-fill"></i>
             </a>
           </div>

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Component } from "react";
 import markdownToHtml from "../../lib/markdownToHtml";
+import markdownStyles from "../markdown-styles.module.css";
 
 export default class PetitionModal extends Component {
   constructor(props) {
@@ -34,7 +35,8 @@ export default class PetitionModal extends Component {
                 </button>
               </div>
               <div className="px-6 space-y-6">
-                <div className="mx-2 my-0 text-justify text-sm leading-relaxed text-accent-2" dangerouslySetInnerHTML={{ __html: this.state.content }}>
+                <div className="mx-2 my-0 text-justify text-sm leading-relaxed text-accent-2">
+                  <div className={markdownStyles['markdown'] + ' ' + markdownStyles['petitions']} dangerouslySetInnerHTML={{ __html: this.state.content }}></div>
                 </div>
                 <div className="w-full my-0 relative h-[20em]">
                   <Image layout="fill" objectFit="cover" objectPosition='center' src={this.props.petition.coverImage} alt={this.props.petition.title} className="rounded-3xl shadow" placeholder="blur" blurDataURL={`/_next/image?url=${this.props.petition.coverImage}&w=16&q=1`} />

@@ -38,3 +38,4 @@ yarn-error.log*
 sitemap*.xml
 robots.txt
 !old.sitemap.xml
+package-lock.json

@@ -75,5 +75,6 @@
 }
 
 .petitions p {
-  margin-bottom: 0.75em;
+  margin: 0.75em auto;
+  margin-top: 0;
 }
