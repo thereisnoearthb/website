@@ -7,7 +7,9 @@ button: Register Now!
 excerpt: Despite such high ecological and economical value provided by wetlands, Global Wetland Outlook published by the Ramsar Convention in 2018 pointed out that wetlands are disappearing three times faster than forests.
 ---
 
-![](https://thereisnoearthb.org/assets/campaigns/ouaw-logos.jpg)
+![](https://thereisnoearthb.org/assets/campaigns/YEW_LOGO%20WHITE.png)
+
+![](https://thereisnoearthb.org/assets/campaigns/repeatlogo.png)
 
 ### Event Information
 

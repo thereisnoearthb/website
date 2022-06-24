@@ -78,3 +78,9 @@
   margin: 0.75em auto;
   margin-top: 0;
 }
+
+.markdown table tr td,
+.markdown table tr th {
+  border: 1px solid;
+  padding: 1em;
+}
