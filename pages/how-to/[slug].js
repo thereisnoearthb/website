@@ -51,6 +51,7 @@ export default function HowTo({ howTo, moreHowTos, preview }) {
                 category={howTo.category}
                 date={howTo.date}
                 content={howTo.content}
+                author={howTo.author}
               />
             </article>
           </>
@@ -67,6 +68,7 @@ export async function getStaticProps({ params }) {
     'slug',
     'category',
     'content',
+    'author'
   ]);
 
   const content = await markdownToHtml(howTo.content || '');

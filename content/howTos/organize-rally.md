@@ -4,8 +4,6 @@ date: 23-06-2022
 category: Organize
 ---
 
-## Steps
-
 Have you ever seen a protest or a rally taking place near you or have you ever been a part of one? Protests have always been a crucial way of expressing objection against an ideology or action in our society in which people gather and show disapproval towards an act, usually a political one.
 
 ### Here’s how a peaceful protest is organized by the protesters
