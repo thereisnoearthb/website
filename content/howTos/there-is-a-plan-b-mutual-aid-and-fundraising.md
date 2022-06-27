@@ -33,9 +33,15 @@ Keeping the issues of platform fee tech set-up and funds withdrawal hassle, the 
 
 https://upi.thereisnoearthb.com/generator.html
 
+![step-1](https://thereisnoearthb.org/assets/how-to/upi1.png)
+
 ### Step 2: Add key details - UPI ID and Display Name. Click on Generate Link
 
+![step-2](https://thereisnoearthb.org/assets/how-to/upi2.png)
+
 ### Step 3: Copy the Link or Share it with others
+
+![step-3](https://thereisnoearthb.org/assets/how-to/upi3.png)
 
 ### AND it is done!
 
