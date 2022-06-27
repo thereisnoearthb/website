@@ -35,7 +35,7 @@
 }
 
 .steps {
-  @apply mt-3;
+  @apply mt-3 text-accent-3;
 }
 
 .steps h1, .steps h2, .steps h3 {

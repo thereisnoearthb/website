@@ -10,7 +10,7 @@ import Loader from '../../components/Loader';
 import HowToDetail from '../../components/HowTo/HowToDetail.js';
 
 export default function HowTo({ howTo, moreHowTos, preview }) {
-  const desc = howTo.title + ' | ' + ORG_NAME;
+  const desc = howTo.unformattedContent.slice(0, 500);
 
   const router = useRouter();
 
@@ -71,6 +71,7 @@ export async function getStaticProps({ params }) {
     'author'
   ]);
 
+  const unformattedContent = howTo.content;
   const content = await markdownToHtml(howTo.content || '');
 
   return {
@@ -78,6 +79,7 @@ export async function getStaticProps({ params }) {
       howTo: {
         ...howTo,
         content,
+        unformattedContent,
       },
     },
   };
