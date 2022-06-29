@@ -48,6 +48,8 @@ export default function Event({ event, moreEvents, preview }) {
                 date={event.date}
                 category={event.category}
                 content={event.content}
+                link={event.link}
+                button={event.button}
               />
             </article>
           </>
@@ -67,6 +69,8 @@ export async function getStaticProps({ params }) {
     'coverImage',
     'category',
     'content',
+    'link',
+    'button'
   ]);
 
   const content = await markdownToHtml(event.content || '');
