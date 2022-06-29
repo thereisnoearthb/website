@@ -6,7 +6,7 @@ import FormattedDate from '../FormattedDate';
 import markdownStyles from '../markdown-styles.module.css';
 import SharingIcons from '../SharingIcons';
 
-export default function BlurbDetail({ title, coverImage, author, category, date, content, link, button }) {
+export default function BlurbDetail({ title, coverImage, author, category, date, content, link, button, position }) {
   const { asPath } = useRouter();
 
   return (
@@ -46,7 +46,7 @@ export default function BlurbDetail({ title, coverImage, author, category, date,
       </div>
       <div className="mb-8 sm:mx-0 w-full mx-auto relative">
         <Image src={coverImage} alt={title} className="" height={9} width={16}
-          objectFit='cover' layout='responsive' objectPosition='center' />
+          objectFit='cover' layout='responsive' objectPosition={position || 'center'} />
 
         {(link && button) && <div className="mt-8 msm:mx-0 w-full mx-auto relative flex items-center justify-center">
           <a href={link} target={'_blank'} className='button w-3/4 mx-auto text-center border border-accent-2 p-5 uppercase hover:bg-accent-2 hover:text-accent-1 font-bold text-xl'>

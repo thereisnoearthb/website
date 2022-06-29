@@ -50,6 +50,7 @@ export default function Event({ event, moreEvents, preview }) {
                 content={event.content}
                 link={event.link}
                 button={event.button}
+                position={event.position}
               />
             </article>
           </>
@@ -70,6 +71,7 @@ export async function getStaticProps({ params }) {
     'category',
     'content',
     'link',
+    'position',
     'button'
   ]);
 

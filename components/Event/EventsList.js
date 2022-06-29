@@ -11,6 +11,7 @@ export default function EventsList({ events: events }) {
           author={event.author}
           coverImage={event.coverImage}
           excerpt={event.excerpt}
+          position={event.position}
         />
       ))}
     </section >

@@ -1,13 +1,15 @@
 ---
 title: 'Once Upon A Wetland'
-coverImage: https://thereisnoearthb.org/assets/campaigns/ouaw.jpg
+coverImage: /assets/campaigns/ouaw.jpg
 link: mailto:solidarity@thereisnoearthb.com?subject=Registration%20for%20Once%20Upon%20A%20Wetland&body=Hi!%20I%27d%20like%20to%20register%20for%20the%20Once%20Upon%20A%20Wetland%20Events.%20I%20consent%20to%20be%20contacted%20about%20the%20same%20%3A)
 date: 24-06-2022
 button: Register Now!
 excerpt: Despite such high ecological and economical value provided by wetlands, Global Wetland Outlook published by the Ramsar Convention in 2018 pointed out that wetlands are disappearing three times faster than forests.
+position: top
+category: climate action
 ---
 
-<div style="display: flex; width: 100%">
+<div style="display: flex; width: 100%; margin: -1em auto">
 <img style="width: 50%" src="https://thereisnoearthb.org/assets/campaigns/YEW_LOGO%20WHITE.png"/>
 <img style="width: 50%" src="https://thereisnoearthb.org/assets/campaigns/repeatlogo.png"/>
 </div>

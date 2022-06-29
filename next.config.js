@@ -16,8 +16,13 @@ module.exports = {
       {
         source: '/:path*',
         has: [{ type: 'host', value: 'onceuponawetland.thereisnoearthb.org' }],
-        destination: 'https://thereisnoearthb.org/c/once-upon-a-wetland',
+        destination: 'https://thereisnoearthb.org/events/once-upon-a-wetland',
         permanent: true
+      },
+      {
+        source: '/c/once-upon-a-wetland',
+        destination: '/events/once-upon-a-wetland',
+        permanent: false
       },
       {
         source: '/sukhna-lake/cleanup-236-chandigarh.html',
