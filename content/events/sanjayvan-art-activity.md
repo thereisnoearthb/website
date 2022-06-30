@@ -4,7 +4,7 @@ coverImage: /assets/petitions/sanjayvan.jpeg
 link: https://docs.google.com/forms/d/e/1FAIpQLSfbHc1T0Gh7w3FxkJMcLFTplLswDe6CIUETCVVWfNPr2zjRWQ/viewform?usp=sf_link
 date: 30-06-2022
 button: Register Now!
-excerpt: Despite such high ecological and economical value provided by wetlands, Global Wetland Outlook published by the Ramsar Convention in 2018 pointed out that wetlands are disappearing three times faster than forests.
+excerpt: Sanjay Van, a reserve forest, a very essential part of the lives of Delhiites is in danger!
 position: top
 category: climate action
 ---
