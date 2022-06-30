@@ -1,6 +1,6 @@
 ---
 title: 'Art Activity for Sanjay Van'
-coverImage: /assets/petitions/sanjayvan.jpeg
+coverImage: /assets/events/group_photo_2.jpg
 link: https://docs.google.com/forms/d/e/1FAIpQLSfbHc1T0Gh7w3FxkJMcLFTplLswDe6CIUETCVVWfNPr2zjRWQ/viewform?usp=sf_link
 date: 30-06-2022
 button: Register Now!
