@@ -5,7 +5,7 @@ link: https://docs.google.com/forms/d/e/1FAIpQLSfbHc1T0Gh7w3FxkJMcLFTplLswDe6CIU
 date: 30-06-2022
 button: Register Now!
 excerpt: Sanjay Van, a reserve forest, a very essential part of the lives of Delhiites is in danger!
-position: top
+position: center
 category: climate action
 ---
 
