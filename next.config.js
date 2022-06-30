@@ -25,6 +25,11 @@ module.exports = {
         permanent: false
       },
       {
+        source: '/events/sanjayvan-art-activity',
+        destination: '/events/sanjay-van-art-activity',
+        permanent: false
+      },
+      {
         source: '/sukhna-lake/cleanup-236-chandigarh.html',
         destination: '/events/sukhna-lake-cleanup-236-chandigarh',
         permanent: false,
