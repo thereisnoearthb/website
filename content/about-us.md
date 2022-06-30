@@ -1,5 +1,5 @@
 ---
-excerpt: There Is No Earth B is a leaderless people’s movement, consistently working on the ground since 2018, with an ever-growing group of volunteers who passionately commit themselves to advance decentralized climate actions. Their motto has been to support, encourage and facilitate the way for inclusive, organic, and decentralized climate action and advocacy. Driven by the organic participation of all the stakeholders, the movement, There Is No Earth B, tends to steer towards a more sustainable and equitable planet.
+excerpt: There Is No Earth B is a leaderless people’s movement, consistently working on the ground since 2018, with an ever-growing group of volunteers who passionately commit themselves to advance decentralized climate actions. Our motto has been to support, encourage and facilitate the way for inclusive, organic, and decentralized climate action and advocacy. Driven by the organic participation of all the stakeholders, the movement, There Is No Earth B, tends to steer towards a more sustainable and equitable planet.
 updated: 21-06-2022
 ---
 
@@ -7,7 +7,7 @@ There Is No Earth B is a *leaderless people’s movement*, consistently working 
 
 ## Cleanups
 
-- 280 clean-up drives spreading across India were conducted by the There Is No Earth B volunteers. Some cities where clean ups were conducted include New Delhi, Gurgaon, Noida, Chandigarh, Lucknow, Bangalore, Andamans, and various towns in Uttarakhand.
+- 319 clean-up drives spreading across India were conducted by the There Is No Earth B volunteers. Some cities where clean ups were conducted include New Delhi, Gurgaon, Noida, Chandigarh, Lucknow, Bangalore, Andamans, and various towns in Uttarakhand.
 - TINEB volunteers have also coordinated sending of plastics collected from clean-up drives in the national capital, to the Indian Pollution Control Association (IPCA) that further upcycles and recycles these plastics.
 - There Is No Earth B also ensures that all the plastics collected from its clean-up drives are carefully segregated based on their reusability. It has also collaborated with other environmental advocacy groups and conducted joint clean-up drives.
 - The organization is committed to weekly clean-up drives in areas such as Sanjay Van and the Yamuna Bank periodically. The clean-up drives in far-off areas are conducted whenever the group visits places and organizes various other activities like Nukkad Natak etc as well.
