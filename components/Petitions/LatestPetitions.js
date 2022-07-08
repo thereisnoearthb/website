@@ -15,6 +15,7 @@ export default function LatestPetitions({ petitions }) {
             slug={petition.slug}
             coverImage={petition.coverImage}
             content={petition.content}
+            redirect={petition.redirect}
           />
         ))}
       </div>

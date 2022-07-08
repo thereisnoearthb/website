@@ -42,6 +42,7 @@ export default function Index({ allPetitions }) {
                 link={heroPetition.link}
                 content={heroPetition.content}
                 slug={heroPetition.slug}
+                redirect={heroPetition.redirect}
               />
             )}
           </div>
@@ -61,7 +62,8 @@ export async function getStaticProps() {
     'slug',
     'link',
     'coverImage',
-    'content'
+    'content',
+    'redirect',
   ]);
 
   return {
