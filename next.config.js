@@ -365,13 +365,8 @@ module.exports = {
         permanent: false,
       },
       {
-        source: '/sign-up',
-        destination: '/sign-up/index.html',
-        permanent: false,
-      },
-      {
         source: '/sign-up.html',
-        destination: '/sign-up/index.html',
+        destination: '/sign-up',
         permanent: false,
       },
       {
