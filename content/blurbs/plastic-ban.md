@@ -2,9 +2,10 @@
 title: 'Single-use Plastic Ban'
 excerpt: 'How single-use plastic is ruining the environment?'
 coverImage: '/assets/events/plastic-ban.jpg'
-date: '15-07-2022'
-author: Vishnupriya
+date: '18-07-2022'
+
 ---
+*Article by Vishnupriya* </br> 
 
 If someone asks if you can imagine your life without plastics, what would be your answer? 
 Plastics have always been a crucial part of our daily lives. We are surrounded by it. The objects and technologies that we use, the food packaging, the cosmetics that you apply on your body or maybe your body, all of them and many other items can be or most probably are plastic in nature. They make our lives easier and are recyclable but are they good for the environment and other living things? The answer is no, a hundred times no! 
@@ -32,5 +33,5 @@ References:</br>
 [10 Reasons Why Single-Use Plastic is Bad for the Health and Environment | Vaya](https://vaya.in/10-reasons-why-single-use-plastic-is-bad-for-the-health-and-environment/#:~:text=%2010%20Reasons%20Why%20Single-Use%20Plastic%20is%20Bad,of%20the%20plastics%20are%20recycled%2C%20most...%20More%20) </br>
 [Ban on identified Single Use Plastic Items from 1st July 2022](https://pib.gov.in/PressReleasePage.aspx?PRID=1837518) </br>
 [Plastic Waste Management Amendment Rules, 2021 – Civilsdaily](https://www.civilsdaily.com/news/plastic-waste-management-amendment-rules-2021/#:~:text=The%20Environment%20Ministry%20has%20notified%20the%20Plastic%20Waste,become%20an%20important%20environmental%20challenge%20confronting%20all%20countries.) </br>
- 
+
 
