@@ -1,6 +1,6 @@
 ---
 title: 'Waste-to-Art Activity for Aarey Forest'
-coverImage: /assets/events/aarey.jpeg
+coverImage: /assets/events/aarey-forest.png
 date: 09-07-2022
 excerpt: A forest of immense worth is today in danger of facing destruction.
 position: center
