@@ -2,7 +2,7 @@
 title: 'Save Barak'
 coverImage: '/assets/petitions/silchar.jpg'
 link: 'https://savebarak.thereisnoearthb.com/'
-date: '23-07-2022'
+date: '13-07-2022'
 ---
 
 Silchar in Cachar district in South Assam's Barack Valley remains submerged, with people still stranded in water-logged areas, with an acute water and food crisis. There is no electricity in large parts of the town.
