@@ -146,7 +146,7 @@ The presentation will cover the evolution of space technology. It will cover the
 <style>
 @media screen and (max-width: 600px) {
     #bonani {
-        max-width: unset !important;
+        max-width: 100%;
         float: none !important;
         padding: 0 !important;
     }
