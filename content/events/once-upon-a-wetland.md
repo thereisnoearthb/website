@@ -156,3 +156,29 @@ The presentation will cover the evolution of space technology. It will cover the
 Bonani Kakkar, founder of PUBLIC, has a Master’s in Public Health from the University of California, Los Angeles. Before committing herself to PUBLIC, she consulted on health projects for the World Bank, UNICEF and the Dutch government, in India and internationally. Her childhood interest in wildlife grew into a position with WWF-India and to destinations such as the Galapagos and Papua New Guinea. Her immersion into environmental issues led to an Eisenhower Fellowship in 1991 and to appointments on state and national bodies. She is Calcuttan by birth and by passion.
 
 Her presentation will be on advocacy for the wetlands, with specific reference to protection of 25,000 acres of wetlands just outside Calcutta/Kolkata.
+
+### Dr T V Ramachandra
+
+<img id="tvr" style="filter: grayscale(1); float: left; padding-right: 2em; padding-top: 1em;" src="/assets/campaigns/TVR.jpg" alt="Dr T V Ramachandra" />
+
+<style>
+@media screen and (max-width: 600px) {
+    #tvr {
+        float: none !important;
+        padding: 0 !important;
+    }
+}
+</style>
+
+> Talk: Valuation of Wetland Ecosystem Services
+
+Dr. T.V. Ramachandra, FIE, FIEE (UK), FNIE  obtained Ph.D. in Ecology and Energy from Indian Institute of Science. At present, Coordinator of Energy and Wetlands Research Group (EWRG), Convener of Environmental Information System (ENVIS) at Centre  for Ecological Sciences (CES). During the past twenty years he has established an active school of research in the area of energy and environment (http://ces.iisc.ernet.in/energy). He is a member of Karnataka State Wetland Authority (2018..), Kerala Wetland Authority (2022..), National Wetland Committee, GoI., and Karnataka State Audit Advisory Committee. He was a Member of the Karnataka State level Environment Expert Appraisal Committee (2007-2010), appointed by the Ministry of Environment and Forests, Government of India and a member of the Western Ghats task force appointed by the Government of Karnataka. Apart from this TVR is serving in many committees of NGT (National Green Tribunal) related to wetlands of Bangalore.
+
+TVR is a recipient of  Johny Biosphere Award for Ecology and Environment (2004), Satish Dhawan Young Scientist Award, 2007 of  Karnataka State Government, ENVIS Award (Thrice: 2004, 2014 and 2015) of the Ministry of Environment, Forests and Climate Change, GoI, Namma Bangalorean, 2016 award (Namma Bengaluru Foundation) and Rotary Exemplars 2017- Citizen Extraordinaire award (Rotary Club of Bangalore), Karnataka State Parisara Award, 2017-18 (Environment Award, Government of Karnataka), Khadri Achuathan Memorial Samvahana Award (Environment) 2018, on World Communicators Day by PRCI, research advisor at the Nanyang Academy of Sciences, Singapore (2019) and Eminent Engineer, Institution of Engineers, Karnataka (2019). TVR (c metric: 0.218) features in the recent global ranking of top 2% scientists.
+
+He is an Elected Fellow of National Institute of Ecology (2011), Indian Association of Hydrologists (India; 2006), Indian Social Science Academy (ISSA), Institution of Engineers (IE, India; 2003), the Institution of Electrical Engineers (IEE, UK; 2005), and a Senior Member, IEEE (USA; 2000) and Association of Energy Engineers (USA; 2000).
+
+TVR’s research interests are in the area of aquatic ecosystems, biodiversity, ecological modeling, Western Ghats ecology, energy systems, renewable energy, energy conservation, energy planning, geo-informatics, environmental engineering education research and curriculum development at the tertiary level. He has published over 328 research papers in the reputed peer-reviewed international and national journals, 69 book chapters, 333 papers in the international and national symposiums as well as 19 books. In addition, he has delivered a number of plenary lectures at national and international conferences. Publication “Milking diatoms for energy” is seminal work in biofuel research evident from reports in Scientific American, BBC, national dailies, etc.
+
+He has guided 152 students for Master’s dissertation and seventeen students for Doctoral degrees. He teaches courses (i) environmental management and (ii) Principles and application of GIS and remote sensing for masters and doctoral students. TVR has travelled widely across the country for field research and also for delivering lectures (1500+) at Schools, Colleges, Research Institutes, etc. He has taken initiatives through biennial symposium (popular as Lake series, conducted 12 events since 1998), Environment management course for in-service working professionals (18 sessions). training programmes and workshops for capacity building at various levels.
+
