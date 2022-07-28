@@ -29,15 +29,12 @@ category: climate action
 **Target Audience**: Youth in India
 
 **Main Contacts**: </br>
->>**RE-PEAT**: Ananya Jain, Coordinator, info@re-peat.earth / jain02ananya@gmail.com </br>
 
->>**Youth Engaged in Wetlands**: Denzel Urieta, Asia Regional Representative youthengagedinwetlands@gmail.com / denz.urieta@gmail.com  </br>
+•**RE-PEAT**: Ananya Jain, Coordinator, info@re-peat.earth / jain02ananya@gmail.com </br>
+•**Youth Engaged in Wetlands**: Denzel Urieta, Asia Regional Representative youthengagedinwetlands@gmail.com / denz.urieta@gmail.com  </br>
+•**There Is No Earth B**: Dhrstadyumn, Coordinator, thereisnoearthb@gmail.com </br>
 
->>**There Is No Earth B**: Dhrstadyumn, Coordinator, thereisnoearthb@gmail.com </br>
-
-
-
-### RATIONALE BEHIND PROJECT
+### Rationale Behind Project
 
 Wetlands provide ecosystem services, such as water purification, water storage, carbon storage, flood protection, and shoreline stabilization. According to recent assessments (de Groot et. al.,2012; Davidson et.al., 2019), wetlands are among the world’s most economically valuable ecosystems when compared to other ecosystems such as forests, grasslands and oceans. 
 
@@ -72,13 +69,13 @@ Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowe
 
 [Sign Up Today!](mailto:solidarity@thereisnoearthb.com?subject=Registration%20for%20Once%20Upon%20A%20Wetland&body=Hi!%20I%27d%20like%20to%20register%20for%20the%20Once%20Upon%20A%20Wetland%20Events.%20I%20consent%20to%20be%20contacted%20about%20the%20same%20%3A)
 
-## PROGRAMME DETAILS
-- Number of Days: 2 Days 
-- Dates: 6-7 August 2022
-- Target participants: Youth in India 
-- Target Number of Participants: 50 – 150
-- Location: Virtual Conference
-- Below is the structure of the forum:
+## Progranme Details
+• Number of Days: 2 Days 
+• Dates: 6-7 August 2022
+• Target participants: Youth in India 
+• Target Number of Participants: 50 – 150
+• Location: Virtual Conference
+• Below is the structure of the forum:
 
 ## Schedule
 
