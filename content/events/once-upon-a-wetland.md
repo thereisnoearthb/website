@@ -56,11 +56,11 @@ To achieve the objectives of encouraging and strengthening youth engagement in w
 
 ![](/assets/campaigns/ouaw-lca.png)
 
-## Learn
+### Learn
 
 Learn through a series of presentations prepared by the invited speakers, attendees will be able to learn about the current status of the wetlands in India, including the policies related to its management and protection.
 
-## Connect
+### Connect
 
 The attendees will be given ample time and opportunity to connect with other young people who are passionate about the issue, so they can exchange their experiences and ideas regarding wetland conservation.
 
@@ -77,44 +77,58 @@ Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowe
 
 ## Schedule
 
-### Day 1
-
-<table>
+<div style="overflow: auto;">
+<table style="overflow: auto;">
     <thead>
         <tr>
-            <th><strong>Date</strong></th>
+            <th><strong>Time</strong></th>
             <th><strong>Session Themes</strong></th>
+            <th><strong>Session Speaker</strong></th>
+            <th><strong>Session Time (IST)</strong></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8><strong>6th August</strong></td>
+            <td rowspan=5 style="text-align:center !important;"><strong>Day<br />1</strong></td>
         </tr>
         <tr>
-            <td><strong>#1</strong>: General introduction to the wetland ecosystem for those who are new to the subject</td>
+            <td><strong>#1</strong>: Introduction to wetlands and linked ecosystem services</td>
+            <td>Dr. T.V. Ramachandra</td>
+            <td>15:00 to 15:30</td>
         </tr>
         <tr>
-            <td><strong>#2</strong>: Community-led models of wetlands conservation</td>
+            <td><strong>#2</strong>: Community-led advocacy and public mobilization for the conservation of local wetlands</td>
+            <td>People United for Better Living in Calcutta (PUBLIC)</td>
+            <td>15:45 to 16:15</td>
         </tr>
         <tr>
-            <td><strong>#3</strong>: The formulation of national policies for wetlands conservation and gaps in existing Indian policies</td>
+            <td><strong>#3</strong>: Ecological modeling and upcoming technologies</td>
+            <td>Rajashree Naik</td>
+            <td>16:30 to 17:00</td>
         </tr>
         <tr>
-            <td><strong>#4</strong>: The role of small wetlands, which are often neglected, in local ecological regulation</td>
+            <td><strong>#4</strong>: The formulation of national policies for wetlands conservation and gaps in existing Indian policies</td>
+            <td>Dr. Ritesh Kumar</td>
+            <td>17:15 to 17:45</td>
         </tr>
         <tr>
-            <td><strong>#5</strong>: A co-creative workshop to illustrate the use of art as a medium for activism</td>
-        </tr>
-        <tr>
-            <td><strong>#6</strong>: The use of a socio-ecological approach in the formation of conservation policies, particularly, through an ecofeminist lens</td>
-        </tr>
-         <tr>
-            <td><strong>#7</strong>: The benefits of spatial analysis on wetland ecosystems</td>
+            <td rowspan=1 style="text-align:center !important;"><strong>Day<br />2</strong></td>
+            <td>Interaction with Chennai Climate Action Group (CCAG), There is No Earth B (TINEB), Fridays for Future Andhra Pradesh (FFF), and Youth4Water on their work with wetlands and climate advocacy</td>
+            <td>
+                <ul>
+                    <li style="text-align:left;"><strong><a href="https://chennaiclimateactiongroup.wordpress.com/" target="_blank">CCAG</a></strong>: a youth collective centered in Chennai</li>
+                    <li style="text-align:left;"><strong>TINEB</strong>: introduced earlier</li>
+                    <li style="text-align:left;"><strong><a href="https://fffap.in/" target="_blank">FFF Andhra</a></strong>: regional chapter of the FFF movement</li>
+                    <li style="text-align:left;"><strong><a href="https://youth4water.org/" target="_blank">Youth4Water</a></strong>: a youth collective centered in Odisha</li>
+                </yl>
+            </td>
+            <td>15:00 to 16:15</td>
         </tr>
     </tbody>
 </table>
+</div>
 
-### Day 2 / Post-Forum Activities
+### Post-Forum Activities
 
 Organizations like CCAG, FFF Andhra, TINEB. CCAG will be organizing a climate tour post-forum.
 
