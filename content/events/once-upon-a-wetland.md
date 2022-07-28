@@ -70,12 +70,12 @@ Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowe
 [Sign Up Today!](mailto:solidarity@thereisnoearthb.com?subject=Registration%20for%20Once%20Upon%20A%20Wetland&body=Hi!%20I%27d%20like%20to%20register%20for%20the%20Once%20Upon%20A%20Wetland%20Events.%20I%20consent%20to%20be%20contacted%20about%20the%20same%20%3A)
 
 ## Progranme Details
-• Number of Days: 2 Days 
-• Dates: 6-7 August 2022
-• Target participants: Youth in India 
-• Target Number of Participants: 50 – 150
-• Location: Virtual Conference
-• Below is the structure of the forum:
+• Number of Days: 2 Days  <br/>
+• Dates: 6-7 August 2022 <br/>
+• Target participants: Youth in India <br/>
+• Target Number of Participants: 50 – 150 <br/>
+• Location: Virtual Conference <br/>
+• Below is the structure of the forum: <br/>
 
 ## Schedule
 
