@@ -24,33 +24,61 @@ category: climate action
 
 **Organizers**: [RE-PEAT](https://www.re-peat.earth/), [Youth Engaged in Wetlands](https://www.youthengagedinwetlands.com/), [There Is No Earth B](https://thereisnoearthb.org/)
 
-**Language(s)**: English, regional languages of speakers
+**Language(s)**: English
 
-### Introduction
+**Target Audience**: Youth in India
+
+**Main Contacts**: </br>
+>>**RE-PEAT**: Ananya Jain, Coordinator, info@re-peat.earth / jain02ananya@gmail.com </br>
+
+>>**Youth Engaged in Wetlands**: Denzel Urieta, Asia Regional Representative youthengagedinwetlands@gmail.com / denz.urieta@gmail.com  </br>
+
+>>**There Is No Earth B**: Dhrstadyumn, Coordinator, thereisnoearthb@gmail.com </br>
+
+
+
+### RATIONALE BEHIND PROJECT
 
 Wetlands provide ecosystem services, such as water purification, water storage, carbon storage, flood protection, and shoreline stabilization. According to recent assessments (de Groot et. al.,2012; Davidson et.al., 2019), wetlands are among the world’s most economically valuable ecosystems when compared to other ecosystems such as forests, grasslands and oceans. 
 
 Despite such high ecological and economical value provided by wetlands, Global Wetland Outlook published by the Ramsar Convention in 2018 pointed out that wetlands are disappearing three times faster than forests. Wetlands need to be protected effectively for their ecosystem services, along with the implementation of conservation efforts at all levels, from policy-makers to local communities, including youth. 
 
-According to a WISA (Wetlands International South Asia) report, India has already lost about one-third of its natural wetlands over the last four decades. The degradation was attributed to rapid urbanization, industrial and agricultural expansion, and uncontrolled pollution. Despite being signatories of the Ramsar Convention, very little progress has been made on the conservation and wise use of wetlands. In fact, Indian wetlands are persistently exposed to anthropogenic pressures – including land-use changes in the catchment, pollution from households and industry, encroachments, tourism, and overexploitation of natural resources. 
-
 ![](/assets/campaigns/ouaw1.jpg)
+
+According to a report by Wetlands International South Asia (WISA), India has already lost about one-third of its natural wetlands over the last four decades. The degradation was attributed to rapid urbanization, industrial and agricultural expansion, and uncontrolled pollution. Despite being signatories of the Ramsar Convention, very little progress has been made on the conservation and wise use of wetlands. In fact, Indian wetlands are persistently exposed to anthropogenic pressures – including land-use changes in the catchment, pollution from households and industry, encroachments, tourism, and overexploitation of natural resources. 
 
 It has been observed that lack of good governance is the main challenge for wetland conservation by the states in India. From the National Wetland Atlas, India has 757,060 wetlands which account for 4.63% of the country’s geographical area. Due to this massive extent, a nationwide scale of wetland conservation and protection is called for. Community-driven efforts for wetland conservation have continuously shown significant results, however, their impacts seem relatively minuscule compared to developed state regulations and policy frameworks on wetlands. 
 
 In recent years, we witnessed the power of youth to call for actions to tackle environmental issues. We believe youth will play an important role in future mechanisms of wetland conservation, for they are energetic, adaptive, and innovative. In addition, as the future of the world will be led by our next generation, youth should be informed and engaged in the various facets of wetlands. Highlighting the benefits of wetlands, we aim to influence the youth, regardless of educational background, to rise up and care for wetlands before their deterioration reaches the point of no return.
 
-To achieve the objectives of encouraging and strengthening youth engagement in wetland conservation and building capacity and connections between youth and environmental organizations, we are jointly organizing a youth forum concentrated on Indian wetlands. We are also seeking collaborations with other organizations, There Is No Earth B, focusing on nature and biodiversity to raise awareness for the involvement of youth in actionable movements to conserve wetlands.
+While there exist many youth programmes, groups, and networks focusing on the environmental issues in India, there is still a huge knowledge gap concerning wetlands and local youths. RE-PEAT is an international youth-led group pushing for a peatland paradigm shift, meaning, the recognition of peatlands as valuable spaces in their own right. In the past, they have focused on creative and inter-disciplinary methods of raising awareness. Youth Engaged in Wetlands (YEW) was established by youth in 2018 during the 13th Conference of the Parties of the Ramsar Convention and is now becoming independent in promoting the conservation of wetlands worldwide. The mission of YEW is to provide a platform for young people to enable and empower them to help protect and promote wetlands around the world. There Is No Earth B is a youth movement that works on Inclusive, Organic and Decentralized Climate Action and Advocacy. They have organized over 307 cleanup events in environmentally sensitive areas of Sanjay Van, Ridge Forest, Yamuna Bank, Sukhna Lake, Cacra Beach, Mist Waterfall, Gopeshwar removing over 18.2 tons of non-biodegradable waste from there.
+
+To achieve the objectives of encouraging and strengthening youth engagement in wetland conservation and building capacity and connections between youth and environmental organizations, we are jointly organizing a youth forum concentrated on Indian wetlands. We are also seeking collaborations with other organizations focusing on nature and biodiversity to raise awareness for the involvement of youth in actionable movements to conserve wetlands.
 
 ![](/assets/campaigns/ouaw-lca.png)
 
-Wetlands are some of the world's most powerful ecosystems when it comes to providing livelihoods, water, protecting biodiversity, and climate regulation. 💧
+**1. LEARN** – through a series of presentations prepared by the invited speakers, attendees will be able to learn about the current status of the wetlands in India, including the policies related to its management and protection. 
 
+**2. CONNECT** – the attendees will be given ample time and opportunity to connect with other young people who are passionate about the issue, so they can exchange their experiences and ideas regarding wetland conservation. 
+
+**3. ACT** – the youth forum will introduce various non-government environmental organizations and collectives for the attendees to join, respective to their interests. Suitable post-forum events will be developed in collaboration with these organizations to keep individuals engaged.
+
+![](https://thereisnoearthb.org/assets/campaigns/KRK02919.JPG)
+
+Wetlands are some of the world's most powerful ecosystems when it comes to providing livelihoods, water, protecting biodiversity, and climate regulation. 💧
 However, despite such high ecological and economical value, they are disappearing quickly. Over the last four decades, India (home to about 8 lakh wetlands) has lost over one third of its natural wetlands due to urbanization, agricultural expansion, and pollution. 🏭
 
 Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowering young people to work with India’s wonderful wetlands. At the forum, you'll be introduced to wetlands from different perspectives - policy, science, community, etc. - and put your learnings into action by engaging with activist groups across the country.
 
 [Sign Up Today!](mailto:solidarity@thereisnoearthb.com?subject=Registration%20for%20Once%20Upon%20A%20Wetland&body=Hi!%20I%27d%20like%20to%20register%20for%20the%20Once%20Upon%20A%20Wetland%20Events.%20I%20consent%20to%20be%20contacted%20about%20the%20same%20%3A)
+
+## PROGRAMME DETAILS
+- Number of Days: 2 Days 
+- Dates: 6-7 August 2022
+- Target participants: Youth in India 
+- Target Number of Participants: 50 – 150
+- Location: Virtual Conference
+- Below is the structure of the forum:
 
 ## Schedule
 
@@ -94,9 +122,6 @@ Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowe
 ### Day 2 / Post-Forum Activities
 
 Organizations like CCAG, FFF Andhra, TINEB. CCAG will be organizing a climate tour post-forum.
-
-![](https://thereisnoearthb.org/assets/campaigns/KRK02919.JPG)
-
 If you have ideas for other activities or projects, send us an e-mail at solidarity [at] thereisnoearthb.com!
 
 ## Speakers
