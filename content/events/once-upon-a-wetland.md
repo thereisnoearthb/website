@@ -14,7 +14,7 @@ category: climate action
 <img style="width: 50%" src="https://thereisnoearthb.org/assets/campaigns/repeatlogo.png"/>
 </div>
 
-### Event Information
+### Program Information
 
 **Project Title**: Once upon a Wetland
 
@@ -28,23 +28,25 @@ category: climate action
 
 **Target Audience**: Youth in India
 
-**Main Contacts**: </br>
+**Target Number of Participants**: 50 – 150
 
-•**RE-PEAT**: Ananya Jain, Coordinator, info@re-peat.earth / jain02ananya@gmail.com </br>
-•**Youth Engaged in Wetlands**: Denzel Urieta, Asia Regional Representative youthengagedinwetlands@gmail.com / denz.urieta@gmail.com  </br>
-•**There Is No Earth B**: Dhrstadyumn, Coordinator, thereisnoearthb@gmail.com </br>
+**Main Contacts**:
+
+- **RE-PEAT**: <br />Ananya Jain, Coordinator <br />info@re-peat.earth / jain02ananya@gmail.com
+- **Youth Engaged in Wetlands**: <br />Denzel Urieta, Asia Regional Representative <br />youthengagedinwetlands@gmail.com / denz.urieta@gmail.com 
+- **There Is No Earth B**: <br />Dhrstadyumn, Coordinator <br />thereisnoearthb@gmail.com
 
 ### Rationale Behind Project
 
-Wetlands provide ecosystem services, such as water purification, water storage, carbon storage, flood protection, and shoreline stabilization. According to recent assessments (de Groot et. al.,2012; Davidson et.al., 2019), wetlands are among the world’s most economically valuable ecosystems when compared to other ecosystems such as forests, grasslands and oceans. 
+Wetlands provide ecosystem services, such as water purification, water storage, carbon storage, flood protection, and shoreline stabilization. According to recent assessments (de Groot et. al.,2012; Davidson et.al., 2019), wetlands are among the world’s most economically valuable ecosystems when compared to other ecosystems such as forests, grasslands and oceans.
 
-Despite such high ecological and economical value provided by wetlands, Global Wetland Outlook published by the Ramsar Convention in 2018 pointed out that wetlands are disappearing three times faster than forests. Wetlands need to be protected effectively for their ecosystem services, along with the implementation of conservation efforts at all levels, from policy-makers to local communities, including youth. 
+Despite such high ecological and economical value provided by wetlands, Global Wetland Outlook published by the Ramsar Convention in 2018 pointed out that wetlands are disappearing three times faster than forests. Wetlands need to be protected effectively for their ecosystem services, along with the implementation of conservation efforts at all levels, from policy-makers to local communities, including youth.
 
 ![](/assets/campaigns/ouaw1.jpg)
 
-According to a report by Wetlands International South Asia (WISA), India has already lost about one-third of its natural wetlands over the last four decades. The degradation was attributed to rapid urbanization, industrial and agricultural expansion, and uncontrolled pollution. Despite being signatories of the Ramsar Convention, very little progress has been made on the conservation and wise use of wetlands. In fact, Indian wetlands are persistently exposed to anthropogenic pressures – including land-use changes in the catchment, pollution from households and industry, encroachments, tourism, and overexploitation of natural resources. 
+According to a report by Wetlands International South Asia (WISA), India has already lost about one-third of its natural wetlands over the last four decades. The degradation was attributed to rapid urbanization, industrial and agricultural expansion, and uncontrolled pollution. Despite being signatories of the Ramsar Convention, very little progress has been made on the conservation and wise use of wetlands. In fact, Indian wetlands are persistently exposed to anthropogenic pressures – including land-use changes in the catchment, pollution from households and industry, encroachments, tourism, and overexploitation of natural resources.
 
-It has been observed that lack of good governance is the main challenge for wetland conservation by the states in India. From the National Wetland Atlas, India has 757,060 wetlands which account for 4.63% of the country’s geographical area. Due to this massive extent, a nationwide scale of wetland conservation and protection is called for. Community-driven efforts for wetland conservation have continuously shown significant results, however, their impacts seem relatively minuscule compared to developed state regulations and policy frameworks on wetlands. 
+It has been observed that lack of good governance is the main challenge for wetland conservation by the states in India. From the National Wetland Atlas, India has 757,060 wetlands which account for 4.63% of the country’s geographical area. Due to this massive extent, a nationwide scale of wetland conservation and protection is called for. Community-driven efforts for wetland conservation have continuously shown significant results, however, their impacts seem relatively minuscule compared to developed state regulations and policy frameworks on wetlands.
 
 In recent years, we witnessed the power of youth to call for actions to tackle environmental issues. We believe youth will play an important role in future mechanisms of wetland conservation, for they are energetic, adaptive, and innovative. In addition, as the future of the world will be led by our next generation, youth should be informed and engaged in the various facets of wetlands. Highlighting the benefits of wetlands, we aim to influence the youth, regardless of educational background, to rise up and care for wetlands before their deterioration reaches the point of no return.
 
@@ -54,13 +56,17 @@ To achieve the objectives of encouraging and strengthening youth engagement in w
 
 ![](/assets/campaigns/ouaw-lca.png)
 
-**1. LEARN** – through a series of presentations prepared by the invited speakers, attendees will be able to learn about the current status of the wetlands in India, including the policies related to its management and protection. 
+## Learn
 
-**2. CONNECT** – the attendees will be given ample time and opportunity to connect with other young people who are passionate about the issue, so they can exchange their experiences and ideas regarding wetland conservation. 
+Learn through a series of presentations prepared by the invited speakers, attendees will be able to learn about the current status of the wetlands in India, including the policies related to its management and protection.
 
-**3. ACT** – the youth forum will introduce various non-government environmental organizations and collectives for the attendees to join, respective to their interests. Suitable post-forum events will be developed in collaboration with these organizations to keep individuals engaged.
+## Connect
 
-![](https://thereisnoearthb.org/assets/campaigns/KRK02919.JPG)
+The attendees will be given ample time and opportunity to connect with other young people who are passionate about the issue, so they can exchange their experiences and ideas regarding wetland conservation.
+
+### Act
+
+The youth forum will introduce various non-government environmental organizations and collectives for the attendees to join, respective to their interests. Suitable post-forum events will be developed in collaboration with these organizations to keep individuals engaged.
 
 Wetlands are some of the world's most powerful ecosystems when it comes to providing livelihoods, water, protecting biodiversity, and climate regulation. 💧
 However, despite such high ecological and economical value, they are disappearing quickly. Over the last four decades, India (home to about 8 lakh wetlands) has lost over one third of its natural wetlands due to urbanization, agricultural expansion, and pollution. 🏭
@@ -68,14 +74,6 @@ However, despite such high ecological and economical value, they are disappearin
 Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowering young people to work with India’s wonderful wetlands. At the forum, you'll be introduced to wetlands from different perspectives - policy, science, community, etc. - and put your learnings into action by engaging with activist groups across the country.
 
 [Sign Up Today!](mailto:solidarity@thereisnoearthb.com?subject=Registration%20for%20Once%20Upon%20A%20Wetland&body=Hi!%20I%27d%20like%20to%20register%20for%20the%20Once%20Upon%20A%20Wetland%20Events.%20I%20consent%20to%20be%20contacted%20about%20the%20same%20%3A)
-
-## Progranme Details
-• Number of Days: 2 Days  <br/>
-• Dates: 6-7 August 2022 <br/>
-• Target participants: Youth in India <br/>
-• Target Number of Participants: 50 – 150 <br/>
-• Location: Virtual Conference <br/>
-• Below is the structure of the forum: <br/>
 
 ## Schedule
 
@@ -119,7 +117,11 @@ Join us at Once Upon a Wetland: a collaborative 2-day symposium all about empowe
 ### Day 2 / Post-Forum Activities
 
 Organizations like CCAG, FFF Andhra, TINEB. CCAG will be organizing a climate tour post-forum.
+
 If you have ideas for other activities or projects, send us an e-mail at solidarity [at] thereisnoearthb.com!
+
+![](/assets/campaigns/KRK02919.JPG)
+
 
 ## Speakers
 
@@ -203,4 +205,3 @@ He is an Elected Fellow of National Institute of Ecology (2011), Indian Associat
 TVR’s research interests are in the area of aquatic ecosystems, biodiversity, ecological modeling, Western Ghats ecology, energy systems, renewable energy, energy conservation, energy planning, geo-informatics, environmental engineering education research and curriculum development at the tertiary level. He has published over 328 research papers in the reputed peer-reviewed international and national journals, 69 book chapters, 333 papers in the international and national symposiums as well as 19 books. In addition, he has delivered a number of plenary lectures at national and international conferences. Publication “Milking diatoms for energy” is seminal work in biofuel research evident from reports in Scientific American, BBC, national dailies, etc.
 
 He has guided 152 students for Master’s dissertation and seventeen students for Doctoral degrees. He teaches courses (i) environmental management and (ii) Principles and application of GIS and remote sensing for masters and doctoral students. TVR has travelled widely across the country for field research and also for delivering lectures (1500+) at Schools, Colleges, Research Institutes, etc. He has taken initiatives through biennial symposium (popular as Lake series, conducted 12 events since 1998), Environment management course for in-service working professionals (18 sessions). training programmes and workshops for capacity building at various levels.
-
