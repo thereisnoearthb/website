@@ -1,0 +1,83 @@
+.main {
+  background: white !important;
+  width: 100%;
+  margin: 0 auto;
+  font-family: "Playfair Display", serif !important;
+  color: black;
+}
+
+.container {
+  width: 550px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.cert-thumbnail {
+  @apply mt-5 mb-5
+}
+
+.header {
+  text-align: center;
+  padding: 1em;
+}
+
+.header-title {
+  font-family: "Playfair Display", serif !important;
+  font-size: 2.5rem;
+}
+
+.full-name {
+  font-family: "Playfair Display", serif !important;
+  font-size: 1.5rem;
+  text-align: center;
+  @apply mb-3
+}
+
+.title {
+  font-family: "Playfair Display", serif !important;
+  font-size: 3em;
+  text-align: center;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.footer {
+  background: white !important;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1em 0;
+  padding-bottom: 2em;
+  color: black;
+  font-size: smaller;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em;
+}
+
+.qr-code {
+  margin: 2em auto;
+  margin-top: 1em;
+}
+
+.cert-content-actual {
+  font-size: .9rem;
+}
+
+.cert-content-actual p {
+  font-size: .9rem;
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    width: 90%;
+  }
+
+  .title {
+    font-size: 3em;
+    padding: .6em;
+  }
+}

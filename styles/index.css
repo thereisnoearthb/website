@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -10,6 +12,34 @@
   z-index: 0;
 }
 
+.playfair * {
+  font-family: 'Playfair Display', serif !important;
+}
+
+.noto * {
+  font-family: 'Noto Serif', serif !important;
+}
+
+.cert-content {
+  position: relative;
+  top: -2em;
+  margin-top: -11em;
+}
+
+.cert-content:before {
+  box-sizing: border-box;
+  font-weight: 700;
+  content: attr(data-first_letter);
+  position: relative;
+  margin-top: -1em;
+  top: .71818em;
+  left: -.45818em;
+  font-size: 15.27778em;
+  line-height: 1;
+  color: #171617;
+  font-family: 'Playfair Display', serif !important;
+  opacity: .1;
+}
 
 span.site-title {
   font-family: 'Rock Salt', cursive !important;
